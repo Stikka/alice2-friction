@@ -2,9 +2,6 @@
 Obrada teme trenje u programu Alice 2, pisanom u Javi. Konkretno, primjena programskih blokova za izradu rješenja u obliku multimedije.
 
 <html>
-<head>
-<title>Primjer upotrebe programa Alice 2</title>
-</head>
 <body>
 <h1>Sažetak programskih blokova pisanih u Javi</h1>
 <h1>Tema iz fizike: trenje</h1>
