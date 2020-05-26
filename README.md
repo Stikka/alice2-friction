@@ -3,9 +3,6 @@ Obrada teme trenje u programu Alice 2, pisanom u Javi. Konkretno, primjena progr
 
 <html>
 <body>
-<h1>Sažetak programskih blokova pisanih u Javi</h1>
-<h1>Tema iz fizike: trenje</h1>
-<h1>Napravila: Nastassia Sekulic</h1>
 <h2>world</h2>
 <h3>Events</h3>
 <table  style="border-left: 1px solid #c0c0c0; border-top: 1px solid #c0c0c0; border-bottom: 1px solid #c0c0c0; border-right: 1px solid #c0c0c0" cellpadding="2" cellspacing="0" width="100%">
